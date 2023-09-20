@@ -1,0 +1,9 @@
+dist/
+vendor/
+.gh_token
+*.min.*
+.vscode
+composer.lock
+reservation.tar
+reservation.zip
+locales/*.po~

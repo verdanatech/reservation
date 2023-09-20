@@ -1,0 +1,130 @@
+<root>
+    <name>Reservation</name>
+    <key>reservation</key>
+    <state>beta</state>
+    <logo>https://github.com/salleman33/reservation/raw/master/logo.png</logo>
+    <description>
+        <short>
+            <cs>Poskytuje odlišnou správu rezervací. Také dociluje akcí při rezervacích</cs>
+            <en>Provides a different management of reservations. Also facilitates actions on reservations</en>
+            <fr>Apporte une gestion differente des reservations. Permet egalement d'effectuer facilement des actions sur les reservations.</fr>
+            <de>Bietet eine andere Verwaltung von Reservierungen. Erleichtert auch Aktionen zu Reservierungen.</de>
+        </short>
+        <long>
+            <cs>Tento zásuvný modul nabízí odlišnou správu rezervací materiálu:
+
+- potvrzování vrácení materiálu
+- automatické prodlužování rezervací nevráceného materiálu
+- posílání e-mailů vypůjčitelům když platnost rezervace skončila
+
+Také přináší některé zjednodušující akce pro zápůjčky jako:
+
+- přidání materiálu do existující rezervace
+- nahrazení jednoho materiálu jiným.</cs>
+            
+            <en>This plugin offers a different management of the material reservations :
+
+- acknowledgment of material returns
+- automatic extension of non-returned material reservations
+- sending mail to borrowers if the reservation has expired
+
+It also brings some simplified actions on bookings like :
+
+- add a material to an existing reservation
+- replace one material with another.</en>
+
+            <fr>Ce plugin propose une gestion différente des réservations de matériel :
+
+- acquittement des retours de matériels
+- prolongation automatique des réservations de matériels non rendus
+- envoi de mail aux emprunteurs si la réservation est arrivée à expiration
+
+Il apporte également quelques actions simplifiées sur les réservations comme : 
+
+- ajouter un matériel à une réservation existante
+- remplacer un matériel par un autre.</fr>
+
+            <de>Dieses Plugin bietet eine andere Verwaltung der Materialreservierungen:
+
+- Quittierung von Materialrückgaben
+- automatische Verlängerung von nicht zurückgegebenen Materialreservierungen
+- Versand von Mails an Ausleiher, wenn die Reservierung abgelaufen ist
+
+Es bringt auch einige vereinfachte Aktionen auf Buchungen wie :
+
+- Hinzufügen eines Materials zu einer bestehenden Reservierung
+- Ersetzen eines Materials durch ein anderes.</de>
+        </long>
+    </description>
+    <homepage>https://github.com/salleman33/reservation</homepage>
+    <download>https://github.com/salleman33/reservation/releases</download>
+    <issues>https://github.com/salleman33/reservation/issues</issues>
+    <readme>https://github.com/salleman33/reservation/wiki</readme>
+    <authors>
+        <author>Sylvain Allemand</author>
+    </authors>
+    <versions>
+        <version>
+            <num>2.4.4</num>
+            <compatibility>10</compatibility>
+        </version>
+        <version>
+            <num>2.4.2</num>
+            <compatibility>10</compatibility>
+        </version>
+        <version>
+            <num>2.4.1</num>
+            <compatibility>10</compatibility>
+        </version>
+        <version>
+            <num>2.3.8</num>
+            <compatibility>9.5</compatibility>
+        </version>
+        <version>
+            <num>2.3.3</num>
+            <compatibility>9.4</compatibility>
+        </version>
+        <version>
+            <num>2.1.0</num>
+            <compatibility>9.3</compatibility>
+        </version>
+        <version>
+            <num>1.4.3</num>
+            <compatibility>9.2</compatibility>
+        </version>
+    </versions>
+    <langs>
+        <lang>cs_CZ</lang>
+        <lang>en_GB</lang>
+        <lang>fr_FR</lang>
+        <lang>de_DE</lang>
+    </langs>
+    <license>GPLv3</license>
+    <screenshots>
+        <screenshot>https://github.com/salleman33/reservation/raw/master/pics/screenshot_all.png</screenshot>
+        <screenshot>https://github.com/salleman33/reservation/raw/master/pics/screenshot_b2.png</screenshot>
+    </screenshots>
+    <tags>
+        <cs>
+            <tag>rezervace</tag>
+            <tag>potvrzování</tag>
+            <tag>správa</tag>
+        </cs>
+        <en>
+            <tag>reservations</tag>
+            <tag>acknowledgment</tag>
+            <tag>management</tag>
+        </en>
+        <fr>
+            <tag>réservations</tag>
+            <tag>acquittement</tag>
+            <tag>gestion</tag>
+        </fr>
+        <de>
+            <tag>Reservations</tag>
+            <tag>Bestätigung</tag>
+            <tag>Verwaltung</tag>
+        </de>
+    </tags>
+</root>
+
