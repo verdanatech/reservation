@@ -1,7 +1,7 @@
 <?php
 
 define('PLUGIN_RESERVATION_GLPI_MIN_VERSION', '10');
-define('PLUGIN_VERSION', '2.4.4');
+define('PLUGIN_VERSION_RESERVATION', '2.4.4');
 
 /**
  * Init the hooks of the plugins - Needed
@@ -53,7 +53,7 @@ function plugin_version_reservation()
 {
     return [
         'name' => 'Reservation',
-        'version' => PLUGIN_VERSION,
+        'version' => PLUGIN_VERSION_RESERVATION,
         'author' => 'Sylvain Allemand',
         'license' => 'GLPv3',
         'homepage' => 'https://github.com/salleman33/reservation',
